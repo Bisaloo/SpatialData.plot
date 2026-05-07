@@ -56,7 +56,7 @@ Suggests:
     SpatialData.data,
     testthat
 Remotes:
-    HelenaLC/SpatialData,
+    any::HelenaLC/SpatialData,
     HelenaLC/SpatialData.data
 biocViews: 
     Spatial,
